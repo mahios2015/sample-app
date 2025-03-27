@@ -1,0 +1,48 @@
+2025-03-27T13:40:35.330Z [ERROR]: This is a custom error! 
+Stack: Error: This is a custom error!
+    at C:\Users\mahem\Downloads\node-react-1\sample-app\backend\dist\server.js:1:1802
+    at Layer.handle [as handle_request] (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-03-27T13:40:51.852Z [ERROR]: This is a custom error! 
+Stack: Error: This is a custom error!
+    at C:\Users\mahem\Downloads\node-react-1\sample-app\backend\dist\server.js:1:1802
+    at Layer.handle [as handle_request] (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-03-27T13:40:54.780Z [ERROR]: This is a custom error! 
+Stack: Error: This is a custom error!
+    at C:\Users\mahem\Downloads\node-react-1\sample-app\backend\dist\server.js:1:1802
+    at Layer.handle [as handle_request] (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-03-27T13:41:39.931Z [ERROR]: This is a custom error! 
+Stack: Error: This is a custom error!
+    at C:\Users\mahem\Downloads\node-react-1\sample-app\backend\dist\server.js:1:1802
+    at Layer.handle [as handle_request] (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (C:\Users\mahem\Downloads\node-react-1\sample-app\backend\node_modules\express\lib\router\layer.js:95:5)

@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",      // Output compiled JavaScript to /dist
+    "rootDir": "./",         // Root directory for TypeScript source files
+    "strict": true,
+    "module": "CommonJS",
+    "target": "ES6",
+    "esModuleInterop": true
+  },
+  "include": ["server.ts", "src/**/*"],  // Include server.ts and all files in src
+  "exclude": ["node_modules", "dist"]
+}
